@@ -1,0 +1,23 @@
+{
+  "name": "sharedcanvas",
+  "version": "1.0.0",
+  "description": "A real time canvas application that uses Node.js and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntVo/SharedCanvas.git"
+  },
+  "author": "Antoine Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntVo/SharedCanvas/issues"
+  },
+  "homepage": "https://github.com/AntVo/SharedCanvas#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
